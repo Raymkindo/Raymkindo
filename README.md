@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raymkindo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel 9
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me  | raymkindo02@gmail.com | +255759019408
 
